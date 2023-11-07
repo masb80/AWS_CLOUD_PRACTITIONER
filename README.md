@@ -9,14 +9,16 @@ Official Site [link](https://aws.amazon.com/certification/certified-cloud-practi
 The following table lists the main content domains and their weightings.<br>
 Also, you can download [the official exam guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf).
 
+the CLF-C02 exam (in use beginning on September 19, 2023).
+
 <div align="center">
 
 | Domain                            | % of Exam |
 |:-----------------------------------|:-----------:|
-| Domain 1: Cloud Concepts           | 26%       |
-| Domain 2: Cloud Technology and Services				 | 33%       |
-| Domain 3: Security and Compliance  | 25%       |
-| Domain 4:  Billing, Pricing, and Support      | 16%       |
+| Domain 1: Cloud Concepts           | 24%       |
+| Domain 2: Cloud Technology and Services				 | 34%       |
+| Domain 3: Security and Compliance  | 30%       |
+| Domain 4:  Billing, Pricing, and Support      | 12%       |
 | **Total**                          | **100%**      |
 
 </div>
