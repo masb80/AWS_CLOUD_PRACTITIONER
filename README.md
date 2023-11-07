@@ -14,9 +14,9 @@ Also, you can download [the official exam guide](https://d1.awsstatic.com/traini
 | Domain                            | % of Exam |
 |:-----------------------------------|:-----------:|
 | Domain 1: Cloud Concepts           | 26%       |
-| Domain 2: Technology 				 | 33%       |
+| Domain 2: Cloud Technology and Services				 | 33%       |
 | Domain 3: Security and Compliance  | 25%       |
-| Domain 4: Billing and Pricing      | 16%       |
+| Domain 4:  Billing, Pricing, and Support      | 16%       |
 | **Total**                          | **100%**      |
 
 </div>
