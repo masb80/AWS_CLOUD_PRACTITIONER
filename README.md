@@ -288,7 +288,7 @@ AWS Scaling **horizontally**: adding more EC2 instances, AWS Lambda adding concu
 - Performance efficiency
 - Cost optimization
 
-### AWS WAF
+### AWS WAF(Web Application Firewall)
 - create custom rules that block <ins>common attack patterns</ins>, such as:
 	- SQL injection.
 	- Cross-site scripting.
