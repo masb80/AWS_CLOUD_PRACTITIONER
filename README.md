@@ -176,9 +176,9 @@ It helps avoid overprovisioning and underprovisioning, based on your utilization
 - **Throughput Optimized(st1)**: It is ideal for streaming workloads with fast throughput such as big data and data warehouses.
 
 ### Amazon load balancers
-- NLBs process traffic at the TCP level (layer 4)
-- ALBs process traffic at the HTTP HTTPS level (layer 7)
-- CLBs process traffic at the TCP, SSL, HTTP and HTTPS levels (layer 4 & 7).
+- NLBs(Network Load Balancer) process traffic at the TCP level (layer 4)
+- ALBs(Application Load Balancer) process traffic at the HTTP HTTPS level (layer 7)
+- CLBs(Classic Load Balancer) process traffic at the TCP, SSL, HTTP and HTTPS levels (layers 4 & 7).
 - *Load balancing with session affinity* can be used for **horizontal scaling** of **stateful** components.
 
 ### AWS Security Groups
